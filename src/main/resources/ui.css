@@ -1,0 +1,18 @@
+.root {
+    -fx-font-size: 18;
+}
+
+#grid {
+}
+
+.square.light {
+    -fx-background-color: white;
+}
+
+.square.dark {
+    -fx-background-color: #F6F6F6;
+}
+
+.square.light:hover, .square.dark:hover {
+    -fx-background-color: #FAFA33;
+}
